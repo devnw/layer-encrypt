@@ -1,8 +1,8 @@
-# template
+# layer-encrypt
 
-[![Build Status](https://api.travis-ci.org/nortonlifelock/template.svg?branch=master)](https://travis-ci.org/nortonlifelock/template)
-[![Go Report Card](https://goreportcard.com/badge/github.com/nortonlifelock/template)](https://goreportcard.com/report/github.com/nortonlifelock/template)
-[![GoDoc](https://godoc.org/github.com/nortonlifelock/template?status.svg)](https://godoc.org/github.com/nortonlifelock/template)
+[![Build Status](https://api.travis-ci.org/nortonlifelock/layer-encrypt.svg?branch=master)](https://travis-ci.org/nortonlifelock/layer-encrypt)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nortonlifelock/layer-encrypt)](https://goreportcard.com/report/github.com/nortonlifelock/layer-encrypt)
+[![GoDoc](https://godoc.org/github.com/nortonlifelock/layer-encrypt?status.svg)](https://godoc.org/github.com/nortonlifelock/layer-encrypt)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-template
+layer-encrypt
