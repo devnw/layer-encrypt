@@ -26,7 +26,7 @@ func main() {
 		panic("must supply and organization code")
 	}
 
-	client, err := crypto.NewEncryptionClientWithProfile(crypto.AES256, data, appConfig.EncryptionKey(), *org, *profile)
+	client, err := crypto.NewEncryptionClient(crypto.AES256, data, appConfig.EncryptionKey(), *org, *profile, appConfig.KMSRegion())
 	if err != nil {
 		panic(err)
 	}
